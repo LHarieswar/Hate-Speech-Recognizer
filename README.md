@@ -1,4 +1,4 @@
-# Hate Speech Detection
+# Hate Speech Recognizer
 
 This project aims to detect hate speech in tweets and classify them based on sentiment analysis. It includes data preprocessing, visualization, and machine learning-based classification.
 
